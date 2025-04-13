@@ -1,0 +1,5 @@
+flask==2.2.3
+flask-sqlalchemy==3.0.3
+flask-cors==3.0.10
+pandas==1.5.3
+pdfkit==1.0.0
